@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+checkpoints/
+logs/
+*.log
+*.h5
+*.pth
+*.ckpt
+data/
+.ipynb_checkpoints/
